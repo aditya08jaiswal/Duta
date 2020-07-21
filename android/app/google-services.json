@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037634047901",
+    "firebase_url": "https://dash-7d9a8.firebaseio.com",
+    "project_id": "dash-7d9a8",
+    "storage_bucket": "dash-7d9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037634047901:android:bdf8877d71aa2978956974",
+        "android_client_info": {
+          "package_name": "com.dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037634047901-k40aqeeqik829a9q3fm3us9e4dcci0be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dash",
+            "certificate_hash": "4c5bae34a823ef538a7cbcd1a0500ff4abb64151"
+          }
+        },
+        {
+          "client_id": "1037634047901-5isvs93vb5glqooj4f0q4nloasmt4hfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl41AbX3iNNofQQbuWhEZ3-xpArfufMaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037634047901-5isvs93vb5glqooj4f0q4nloasmt4hfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
